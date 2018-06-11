@@ -1,6 +1,6 @@
-# Reports from my MSc in Applied mathématics, computer vision and Machine Learning
+# Reports from my Master Of Science in Applied mathematics, Computer vision and Machine Learning
 
-The repo contains few of my reports done for several project during my final year at Centrale Paris (Msc in Mathématics,Diplôme d'ingénieur) and Ecole Normale Supérieure Paris Saclay (Maths, vision and apprentissage). 
+The repo contains few of my reports done for several project during my final year at Centrale Paris (Msc in Mathématics, Diplôme d'ingénieur) and Ecole Normale Supérieure Paris Saclay (Maths, vision and apprentissage). 
 
 - Improvement of **Learning to act by predicting the future** (Alexey Dosovitskiy, Vladlen Koltun, ICLR 2017): By adding a [semantic segmentation over the visual stream](https://github.com/AntoineGuillot2/ReportsAndPapers/blob/master/Improving_Learning_To_act_by_predicting_the_future.pdf), we managed to strongly improve the performance of the agent (+ 50 %) and to increase the speed of convergence.
 
